@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MySecondApp</string>
+    <string-array name="choiceOfGame">
+     <item>2048</item>
+        <item>other games</item>
+    </string-array>
 </resources>
